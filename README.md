@@ -1,5 +1,6 @@
 # LiDAR mapping using RTABMAP
 
+This is a ROS 2 package.
 Using RTABMAP to generate a map and perform SLAM.
 
 TODO:
